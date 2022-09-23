@@ -1,1 +1,3 @@
 # jankenpon
+
+Jan, ken, pon!
